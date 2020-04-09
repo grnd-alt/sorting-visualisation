@@ -1,2 +1,2 @@
 # sorting-visualisation
-a sorting algorithm visualized using pygamee
+a sorting algorithm visualized using pygame
